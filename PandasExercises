@@ -1,0 +1,9 @@
+## 데이터마님 빅분기 판단스 연습
+## https://www.datamanim.com/dataset/99_pandas/pandasMain.html
+## https://www.youtube.com/watch?v=PxTIbZJ3xrA
+
+
+import pandas as pd
+DataUrl =  ‘https://raw.githubusercontent.com/Datamanim/pandas/main/lol.csv’
+
+type(df)
